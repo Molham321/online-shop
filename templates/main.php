@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
+  <?php include __DIR__.'/navbar.php'?>
   <header class = "jumbotron">
     <div class = "container">
       <h1>Willkomen auf meienm Online Shop</h1>
